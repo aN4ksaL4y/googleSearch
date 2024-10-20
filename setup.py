@@ -7,7 +7,7 @@ with open("requirements.txt", "r", encoding='UTF-8') as fh:
     requirements = fh.read().split("\n")
 
 setup(
-    name="gsearch",
+    name="ini-google-search",
     version="1.0.0",
     author="Pyjri",
     author_email="admin@pyjri.com",
@@ -15,7 +15,7 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://www.pyjri.com/",
-    packages=["gsearch"],
+    packages=["ini-google-search"],
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",

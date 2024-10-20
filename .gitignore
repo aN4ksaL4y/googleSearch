@@ -1,1 +1,4 @@
 pyjri/
+ini_google_search.egg-info/
+dist/
+build/

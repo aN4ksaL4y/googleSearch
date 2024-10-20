@@ -1,4 +1,4 @@
-from gsearch import search
+from ini_google_search import search
 
 
 # this is an example of search with 30 results
